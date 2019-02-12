@@ -20,3 +20,5 @@ The  activation function in neural network is one of the important aspects which
  - [Twitter140 Dataset](https://www.kaggle.com/kazanova/sentiment140)
  
  <img src="assets/data.png"/>
+
+## Results

@@ -97,7 +97,7 @@ If you use this code or a derivative thereof in your research, we would apprecia
             author={Roy, Swalpa Kumar and Manna, Suvojit and Dubey, Shiv Ram and Chaudhuri, Bidyut B},
             journal={arXiv preprint arXiv:1901.05894},
             year={2019}
-    }
+        }
 
 
 ## License

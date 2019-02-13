@@ -20,7 +20,10 @@ Most neural networks work by interleaving linear projections and simple (fixed) 
 
 A LiSHT is instead a parametric activation function defined as non-parametric approximator:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=φ(z)&space;=z·g(z)and&space;g(z)&space;=&space;Tanh(z)&space;=&space;(exp^{z}-&space;exp^{-z})/(exp^{z}&space;&plus;&space;exp^{-z})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?φ(z)&space;=z·g(z)and&space;g(z)&space;=&space;Tanh(z)&space;=&space;(exp^{z}-&space;exp^{-z})/(exp^{z}&space;&plus;&space;exp^{-z})" title="φ(z) =z·g(z)and g(z) = Tanh(z) = (exp^{z}- exp^{-z})/(exp^{z} + exp^{-z})" /></a>
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=\φ(z)&space;=z·g(z)~~~and~~&space;g(z)&space;=&space;Tanh(z)&space;=&space;(exp^{z}-&space;exp^{-z})/(exp^{z}&space;&plus;&space;exp^{-z})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?φ(z)&space;=z·g(z)and&space;g(z)&space;=&space;Tanh(z)&space;=&space;(exp^{z}-&space;exp^{-z})/(exp^{z}&space;&plus;&space;exp^{-z})" title="φ(z) =z·g(z)and g(z) = Tanh(z) = (exp^{z}- exp^{-z})/(exp^{z} + exp^{-z})" />
+</a>
+</p>
 
 
 ## Pre-Activation ResNet

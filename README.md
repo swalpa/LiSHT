@@ -7,6 +7,9 @@ The  activation function in neural network is one of the important aspects which
 
 <img src="assets/Activations.png"/>
 
+## Pre-Activation ResNet
+
+<img src="assets/Pre-resnet.png"/>
 
 ## Experimental Data
  

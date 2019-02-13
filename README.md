@@ -46,7 +46,7 @@ A LiSHT is instead a parametric activation function defined as non-parametric ap
 
 The classification performance of MLP for different activations over Cars Evaluation, Iris and MNIST datasets.
 
-| Dataset   | Activation <br>  Function   | Training |          | Validation |          |
+| Dataset   | Activation <br>  Function   | Training |            Validation            |
 | :-------- | :-------------------------: | :------: | :------: | :--------: | :------: |
 |           |                             | Loss     | Accuracy | Loss       | Accuracy |
 | Car Eval. | Tanh                        | 0\.0341  | 98\.84   | 0\.0989    | 96\.40   |
@@ -73,7 +73,7 @@ The classification performance of MLP for different activations over Cars Evalua
 
 The classification performance of ResNet for different activations over MNIST and CIFAR-10/100 datasets.
 
-| Dataset   | ResNet  <br>  Depth  | Activation Functions |        |        |        |
+| Dataset   | ResNet  <br>  Depth  |                  Activation Functions           |
 | :-------: | :------------------: | :------------------: | :----: | :----: | :----: |
 |           |                      | Tanh                 | ReLU   | Swish  | LiSHT  |
 | MNIST     | 20                   | 99\.48               | 99\.56 | 99\.53 | 99\.59 |
@@ -83,7 +83,7 @@ The classification performance of ResNet for different activations over MNIST an
 
 The classification performance of LSTM for different activations over twitter140 dataset.
 
-| Dataset    | Activation Functions |        |        |        |
+| Dataset    |                  Activation Functions           |
 | :--------: | :------------------: | :----: | :----: | :----: |
 |            | Tanh                 | ReLU   | Swish  | LiSHT  |
 | Twitter140 | 82\.27               | 82\.47 | 82\.22 | 82\.47 |

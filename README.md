@@ -1,5 +1,5 @@
 # LiSHT
-This is a Keras implementation of the paper "LiSHT: Non-Parametric Linearly Scaled Hyperbolic Tangent Activation Function for Neural Networks" - https://arxiv.org/abs/1901.05894
+This repository contains a Keras implementation of the paper "LiSHT: Non-Parametric Linearly Scaled Hyperbolic Tangent Activation Function for Neural Networks" - https://arxiv.org/abs/1901.05894
 
             Roy, S. K., Manna, S., Dubey, S. R., and Chaudhuri, B. B., 2019. LiSHT: Non-Parametric Linearly 
             Scaled HyperbolicTangent Activation Function for Neural Networks. arXiv preprint arXiv:1901.05894.

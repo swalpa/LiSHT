@@ -14,6 +14,10 @@ The  activation function in neural network is one of the important aspects which
 
 Most neural networks work by interleaving linear projections and simple (fixed) activation functions, like the ReLU function:
 
+<p align="center">
+<img src="https://latex.codecogs.com/svg.latex?g(s)&space;=&space;\max&space;\left(&space;0,&space;s&space;\right&space;\)&space;\,." title="g(s) = \max \left( 0, s \right \) \,." />
+</p>
+
 A LiSHT is instead a parametric activation function defined as non-parametric approximator:
 
 

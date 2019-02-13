@@ -56,4 +56,7 @@ If you use this code or a derivative thereof in your research, we would apprecia
             year={2019}
     }
     
-    
+
+## License
+
+The code is released under the MIT License. See the attached LICENSE file.

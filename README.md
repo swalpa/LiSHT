@@ -5,7 +5,7 @@ This is a Keras implementation of the paper "LiSHT: Non-Parametric Linearly Scal
 ## Description
 The  activation function in neural network is one of the important aspects which facilitates the deep training by introducing the non-linearity into the learning process. However, because of zero-hard rectification, some the of existing activations function  such as ReLU and Swish miss to utilize the negative input values and may suffer from the dying gradient problem. Thus, it is important to look for a better activation function which is free from such problems. As a remedy, this paper proposes a new non-parametric function, called Linearly Scaled Hyperbolic Tangent (LiSHT) for Neural Networks (NNs). The proposed LiSHT activation  function is an attempt to scale the non-linear Hyperbolic Tangent (Tanh) function by a linear function and tackle the dying gradient problem.
 
-<img src="assets/activations.png"/>
+<img src="assets/Activations.png"/>
 
 
 ## Experimental Data
